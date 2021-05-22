@@ -5,3 +5,6 @@
   
 ## Research
 Few of the requirements of restaurant owners is, delivering food to the customers as fast as possible and build everyday task like billing for every order placed and lots of paperwork.
+## Benefits
+Automated billing system provides wide range of benefits, few of them are listed below:
+ *  lighten burden on 
