@@ -27,11 +27,7 @@ Automated billing system provides wide range of benefits, few of them are listed
 * define the entire system under this section with the help of diagram
   
 ## Swot Analysis
-* define strength 
-* weakness 
-* opportunity
-* Threads
-    - with the help of diagram
+
 ![](https://github.com/GENESIS2021Q1/sdlc-team-36/blob/main/6_ImagesAndVideos/SWOT%20Analysis.png)
   
 ## Detailed requirements
