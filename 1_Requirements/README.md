@@ -22,3 +22,53 @@ Automated billing system provides wide range of benefits, few of them are listed
 | Time | Fetaures | Cost |
 |---|---|---|
 |add time| add features |add cost|
+
+## Defining System
+* define the entire system under this section with the help of diagram
+  
+## Swot Analysis
+* define strength 
+* weakness 
+* opportunity
+* Threads
+    - with the help of diagram
+  
+## Detailed requirements
+### High level requirements (HLR)
+
+|ID|Description|Category|Status|
+|---|---|---|---|
+|HLR1|description of requiremtnts|technical/scenario|implemented/future|
+|HLR2|description of requiremtnts|technical/scenario|implemented/future|
+|HLR3|description of requiremtnts|technical/scenario|implemented/future|
+|HLR4|description of requiremtnts|technical/scenario|implemented/future|
+|HLR5|description of requiremtnts|technical/scenario|implemented/future|
+|HLR6|description of requiremtnts|technical/scenario|implemented/future|
+|HLR7|description of requiremtnts|technical/scenario|implemented/future|
+|HLR8|description of requiremtnts|technical/scenario|implemented/future|
+|HLR9|description of requiremtnts|technical/scenario|implemented/future|
+
+### Low Level Requirements (LLR)
+|ID|Description|Category|Status|
+|---|---|---|---|
+|LLR1|description of requiremtnts|technical/scenario|implemented/future|
+|LLR2|description of requiremtnts|technical/scenario|implemented/future|
+|LLR3|description of requiremtnts|technical/scenario|implemented/future|
+|LLR4|description of requiremtnts|technical/scenario|implemented/future|
+|LLR5|description of requiremtnts|technical/scenario|implemented/future|
+|LLR6|description of requiremtnts|technical/scenario|implemented/future|
+|LLR7|description of requiremtnts|technical/scenario|implemented/future|
+|LLR8|description of requiremtnts|technical/scenario|implemented/future|
+|LLR9|description of requiremtnts|technical/scenario|implemented/future|
+
+## 4W's and 1H
+### Who
+    - add in this section
+### What
+    - add in this section
+### When
+    - add in this section
+### Where
+    - add in this section
+### How
+    - add in this section
